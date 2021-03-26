@@ -15,7 +15,7 @@ output:
       toc_depth: 3
       toc_float: true
       includes:
-        after_body: footer.html
+        after_body: resources/footer.html
 ---
 
 ```{r setup, include=FALSE}
@@ -172,5 +172,10 @@ Calculez le nombre de reads qui chevauchent avec au moins 50% de leur longueur l
 ```
 
 <code> </code> reads chevauchent le gène d'intérêt.
+
+
+## Visualisation
+
+Utilisez <strong class="tool">IGV</strong> @igv sous [sa version en ligne](https://igv.org/app/) pour visualiser les alignements sur le gène. Faites une capture d'écran du gène entier.
 
 # References
