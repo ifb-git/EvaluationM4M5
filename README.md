@@ -16,7 +16,7 @@ Pour générer votre propre rapport, utilisez le bouton `Knit to HTML`. N'oublie
 
 Ce rapport devra être mis à disposition et partagé avec nous sous sa forme compilée (html sous forme de Github Pages ou à défaut PDF) dans votre dépôt github public.
 
-Les parties 1 à 4 seront notées pour l'évaluation du module 4, les parties 5 et 6 pour le module 5.
+Les parties 1 à 4 seront notées pour l'évaluation du module 4, les parties 5 à 7 pour le module 5.
 
 # Rendu du devoir 
 
