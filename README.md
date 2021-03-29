@@ -6,7 +6,7 @@ Pour l'évaluation finale des modules 4 et 5, vous devrez compléter le rapport 
 wget https://github.com/DU-Bii/EvaluationM4M5/archive/refs/heads/main.zip
 ```
 
-Le contenu de cette archive doit être copié/collé dans un dépôt git.
+Le contenu de cette archive doit être copié dans vôtre dépôt git.
 
 Suivez les consignes indiquées dans le fichier Rmd et complétez les chunks vides pour tracer vos analyses et répondre aux questions qui vous sont posées.
 
