@@ -32,10 +32,6 @@ Complétez ce document en remplissant les chunks vides pour écrire le code qui 
 N'hésitez pas à commenter votre code, enrichier le rapport en y insérant des résultats ou des graphiques/images pour expliquer votre démarche. N'oubliez pas les **bonnes pratiques** pour une recherche **reproductible** !
 Nous souhaitons à minima que l'analyse soit reproductible sur le cluster de l'IFB.
 
-Ce rapport devra être mis à disposition et partagé avec nous sous sa forme compilée (html sous forme de Github Pages ou à défaut PDF) dans votre dépôt github public.
-
-Les parties 1 à 4 seront notées pour l'évaluation du module 4, les parties 5 et 6 pour le module 5.
-
 # Introduction {-}
 
 Vous allez travailler sur des données de reséquençage d'un génome bactérien : _Bacillus subtilis_. Les données sont issues de cet article :
