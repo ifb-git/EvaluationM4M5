@@ -22,7 +22,7 @@ Les parties 1 à 4 seront notées pour l'évaluation du module 4, les parties 5 
 
 
 * **Avant le 15 avril**
-* Lien vers le rapport HTML déployé sur vos Github Pages ou lien vers votre dépôt
+* Lien vers le rapport HTML déployé sur vos Github Pages ou lien vers votre dépôt _public_ (!)
   - soit dans le slack en message privé à @Valentin Loux et @Olivier Rué
   - soit par mail à valentin.loux@inrae.fr et olivier.rue@inrae.fr
 
