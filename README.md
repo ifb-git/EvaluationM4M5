@@ -14,6 +14,10 @@ Suivez les consignes indiquées dans le fichier Rmd et complétez les chunks vid
 
 Pour générer votre propre rapport, utilisez le bouton `Knit to HTML`. N'oubliez pas de changer les noms et les affiliations des auteurs du document. Si vous le souhaitez, vous pouvez personnaliser ce rapport avec d'autres logos...
 
+Ce rapport devra être mis à disposition et partagé avec nous sous sa forme compilée (html sous forme de Github Pages ou à défaut PDF) dans votre dépôt github public.
+
+Les parties 1 à 4 seront notées pour l'évaluation du module 4, les parties 5 et 6 pour le module 5.
+
 # Rendu du devoir 
 
 
