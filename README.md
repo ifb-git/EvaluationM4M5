@@ -22,6 +22,6 @@ Pour générer votre propre rapport, utilisez le bouton `Knit to HTML`. N'oublie
   - soit dans le slack en message privé à @Valentin Loux et @Olivier Rué
   - soit par mail à valentin.loux@inrae.fr et olivier.rue@inrae.fr
 
-## :memo: Github Pages
+## Github Pages
 
 https://pages.github.com/
